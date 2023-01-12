@@ -1,0 +1,16 @@
+.plans-table-container {
+    width: 80vw;
+    border-spacing: 0;
+    margin: 20px;
+    border-radius: 18px 0;
+    overflow: hidden;
+}
+
+.plans-table-header {
+    background-color: #08323d;
+    color: white;
+}
+
+.plans-table-body {
+    background-color: rgb(234, 234, 234);
+}
